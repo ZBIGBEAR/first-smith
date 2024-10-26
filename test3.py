@@ -1,0 +1,1 @@
+print("abcdeff你好，我是中国人", end='', flush=True)
